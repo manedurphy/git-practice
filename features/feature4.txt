@@ -1,1 +1,2 @@
 Here is some text for feature 4
+Edit feature 4
